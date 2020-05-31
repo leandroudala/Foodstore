@@ -1,0 +1,53 @@
+/* patterns */
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-size: 12pt;
+}
+
+h1, h2, h3, h4 {
+  color: #794141;
+}
+
+.jumbotron {
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+}
+
+.top-radius {
+  border-radius: 40% 40% 3% 3% !important;
+}
+
+.middle-radius {
+  border-radius: 10% !important;
+}
+.bottom-radius {
+  border-radius: 3% 3% 30% 30% !important;
+}
+.logos img {
+  height: 48px;
+  width: 48px;
+  margin: 3px;
+}
+/* colors */
+.brown {
+  color: #794141 !important;
+}
+.brown-bg {
+  background-color: #794141 !important;
+}
+.bread {
+  color: #ffb10f !important;
+}
+.bread-bg {
+  background-color: #ffb10f !important;
+}
+
+.burguer {
+  color: #540000 !important;
+}
+.burguer-bg {
+  background-color: #540000 !important;
+}
+

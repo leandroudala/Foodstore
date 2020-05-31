@@ -1,0 +1,19 @@
+@media screen and (min-width: 992px) {
+    footer .col-md-4:nth-child(2) {
+        border-left: 1px solid #fff;
+        border-right: 1px solid #fff;
+    }
+
+    footer .copyright div {
+        padding-bottom: 0 !important;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    footer .col-md-4 {
+        border-bottom: 1px solid #fff;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+    }
+}
